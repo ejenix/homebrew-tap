@@ -4,8 +4,8 @@
 class Ejenix < Formula
   desc "Ship Dart, UI, flags, config and assets without an app-store release"
   homepage "https://ejenix.com"
-  url "https://api.ejenix.com/cli/by-digest/a20d1c4253f4c921cd1452b38fce207c8a6ae7aa06368a108811b70fd4d66483.tgz"
-  sha256 "a20d1c4253f4c921cd1452b38fce207c8a6ae7aa06368a108811b70fd4d66483"
+  url "https://api.ejenix.com/cli/by-digest/242e4682653efbabae0bc9c97c992d93947ca02dd2560ae48a812a671bfa03be.tgz"
+  sha256 "242e4682653efbabae0bc9c97c992d93947ca02dd2560ae48a812a671bfa03be"
   version "0.1.0"
   license "BSD-3-Clause"
 
